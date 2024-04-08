@@ -2,18 +2,20 @@
 
 This code script quantifies historical (1750-2022) emissions, ERF, and temperture (del_T) contributions by sector of the the following:
 
-GHG: Carbon Dioxide (CO2), Methane (CH4), Nitrous Oxide (N2O), Halogenated Compounds (CFCs, HFCs, HCFCs, etc.)
-Air pollutants: NOx, VOC’s, CO, SO2, NH3,
-Aerosols: Organic carbon, Black Carbon
+* GHG: Carbon Dioxide (CO2), Methane (CH4), Nitrous Oxide (N2O), Halogenated Compounds (CFCs, HFCs, HCFCs, etc.)
+* Air pollutants: NOx, VOC’s, CO, SO2, NH3,
+* Aerosols: Organic carbon, Black Carbon
+
 Emissions, ERF, and del_T contributions are allocated to the following sectors:
 
-Power
-fossil fuel production and distribution (ffpd)
-Industry
-Transportation
-Buildings
-Waste
-Agriculture
+* Power
+* fossil fuel production and distribution (ffpd)
+* Industry
+* Transportation
+* Buildings
+* Waste
+* Agriculture
+  
 Data Sources:
 
 Initial Emissions Data Gathered from EDGAR - Emissions Database for Global Atmospheric Research, specifically EDGAR v8.0 https://edgar.jrc.ec.europa.eu/dataset_ghg70 and EDGAR v6.1 https://edgar.jrc.ec.europa.eu/dataset_ap61#sources
