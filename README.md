@@ -30,3 +30,5 @@ https://edgar.jrc.ec.europa.eu/dataset_ghg70 and EDGAR v6.1 https://edgar.jrc.ec
 Final Emissions Data for major GHGs and air pollutants from [Community Emissions Data Systems (CEDS)](https://github.com/JGCRI/CEDS/blob/master/README.md) version v_2024_04_01. Emissions pre-1970 are from v_2021_04_21 fuel data with sector partitioning from latest version 1970 allocation.
 
 HC (CFC, HCFC) emissions data from [WMO Ozone 2022 Report](https://csl.noaa.gov/assessments/ozone/2022/), HFC and HCFC emission data from [EDGAR - Emissions Database for Global Atmospheric Research](https://edgar.jrc.ec.europa.eu/emissions_data_and_maps), specifically EDGAR v8.0, with other species from [UNEP Ozone Depleting Substance databases](https://ozone.unep.org/countries/data-table). HC emissions sectoral fractions calculated using UNFCCC AFEAS database and UNEP ODS. See HC Section for specific details.
+
+Input data necessary to run the code script located [here](https://zenodo.org/uploads/10946133)
