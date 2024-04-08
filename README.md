@@ -1,4 +1,5 @@
-Anthro GHG, Aerosols, and other species
+**Anthro GHG, Aerosols, and other species**
+
 This code script quantifies historical (1750-2022) emissions, ERF, and temperture (del_T) contributions by sector of the the following:
 
 GHG: Carbon Dioxide (CO2), Methane (CH4), Nitrous Oxide (N2O), Halogenated Compounds (CFCs, HFCs, HCFCs, etc.)
