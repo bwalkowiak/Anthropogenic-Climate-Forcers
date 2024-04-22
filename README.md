@@ -40,4 +40,4 @@ HC (CFC, HCFC, HFC, etc.; see publication methods Table 2) emissions data from [
 Final fuel consumption data from [International Energy Agency (IEA)](https://www.iea.org/data-and-statistics/data-product/world-energy-balances) to allocate ffpd sector emissions to other sectors
 
 **Project Data:**
-Input data necessary to run the code script located [here](https://zenodo.org/uploads/10946133)
+Input data necessary to run the code script is additionally located [here](https://zenodo.org/uploads/10946133)
